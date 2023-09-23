@@ -10,4 +10,5 @@ VSCodeからJupyter Notebookを開く
 ```powershell
 code --remote "http://127.0.0.1:8888/lab?token=a28cb931156c73bf35a19a20617115a0fb11c78cfcce7ea1"
 ```
-## 
+あとは、適当なAIをサポートにつけて、開発を進める。
+
